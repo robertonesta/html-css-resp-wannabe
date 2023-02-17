@@ -154,4 +154,8 @@ img {
         padding-top: 3rem;
         padding-bottom: 3rem;
     }
+
+    .steps{
+        margin-bottom: 0;
+    }
 }
